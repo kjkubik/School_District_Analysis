@@ -43,51 +43,53 @@ percentages went up significantly, around 30%.
 
 ![](Resources/THSBeforeAfter9thRemoval.png)
 
-Key Metrics :
+### Key Metrics :
 
-- Scores by school spending:
-  
-  This shows a positive correlation between the amount of
-  money a school spends per student and the student’s math and reading scores. The more money spent per student, the higher the scores seem to be.
+#### Scores by school spending:
+
+This shows a positive correlation between the amount of
+money a school spends per student and the student’s math and reading scores. The more money spent per student, the higher the scores seem to be.
 
 ![](Resources/ScoresBySchoolSpending.png)
 
-- Scores by school size:
-  
-  This shows a correlation between the number of students and
-  the student’s math and reading scores. The smaller the school size is, the
-  higher the scores seem to be.
+#### Scores by school size:
+
+This shows a correlation between the number of students and
+the student’s math and reading scores. The smaller the school size is, the
+higher the scores seem to be.
 
 ![](Resources/ScoresBySchoolSize.png)
 
-- Scores by school type:
-  
-  This shows a correlation between the type of school and the student's
-  math and reading scores. Charter schools seem to perform around ten points
-  higher for each average and each percent measured.
+#### Scores by school type:
+
+This shows a correlation between the type of school and the student's
+math and reading scores. Charter schools seem to perform around ten points
+higher for each average and each percent measured.
 
 ![](Resources/ScoresBySchoolType.png)
 
-- Math and Reading Scores (by grade):
-  
-  We can see the only difference in the before and after run of the analysis is THS' ninth grade scores.
-  
-  - Math Scores:
-    ![](Resources/MathScoresByGradeBeforeAndAfter.png)
-  - Reading Scores:
-    ![](Resources/ReadingScoresByGradeBeforeAndAfter.png)
-- High and Low Performing Summary:
-  We can see below before changing the high and low summaries THS was ranked #2 in the top five performing schools; and, that it only took removing THS' ninth grade  scores to eliminate them from the top five schools.
-  Before:
-  ![](Resources/HighBefore.png)
-  After:
-  ![](Resources/High.png)
-  
-  We can also see that THS wasn't in either the before or after summary of the five lowest performing schools.
-  
-  Before:
-  ![](Resources/LowBefore.png)
-  After:
-  ![](Resources/Low.png)
+#### Math and Reading Scores (by grade):
 
+We can see the only difference in the before and after run of the analysis is THS' ninth grade scores.
+
+- Math Scores:
+![](Resources/MathScoresByGradeBeforeAndAfter.png)
+
+- Reading Scores:
+  ![](Resources/ReadingScoresByGradeBeforeAndAfter.png)
+
+#### High and Low Performing Summary:
+
+We can see below before changing the high and low summaries THS was ranked #2 in the top five performing schools; and, that it only took removing THS' ninth grade  scores to eliminate them from the top five schools.
+Before:
+![](Resources/HighBefore.png)
+After:
+![](Resources/High.png)
+
+We can also see that THS wasn't in either the before or after summary of the five lowest performing schools.
+
+Before:
+![](Resources/LowBefore.png)
+After:
+![](Resources/Low.png)
 
