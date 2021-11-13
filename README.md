@@ -84,12 +84,11 @@ We can see below before changing the high and low summaries THS was ranked #2 in
 Before:
 ![](Resources/HighBefore.png)
 After:
-![](Resources/High.png)
+![](Resources/high.png)
 
 We can also see that THS wasn't in either the before or after summary of the five lowest performing schools.
 
 Before:
 ![](Resources/LowBefore.png)
 After:
-![](Resources/Low.png)
-
+![](Resources/low.png)
